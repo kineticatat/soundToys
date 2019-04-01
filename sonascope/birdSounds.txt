@@ -1,0 +1,8 @@
+0, birds-01.mp3 60000;
+1, birds-04.wav 55000;
+2, birds-05.wav 60000;
+3, birds-06.wav 40000;
+4, birds-07.wav 50000;
+5, birds-08.wav 45000;
+6, birds-01.wav 60000;
+7, birds-04.wav 55000;

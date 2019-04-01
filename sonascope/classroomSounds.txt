@@ -1,0 +1,7 @@
+0, classroom_1.wav 10000;
+1, classroom_2.wav 23000;
+2, classroom_3.wav 10000;
+3, classroom_4.wav 18000;
+4, classroom_5.wav 16000;
+5, classroom_6.wav 21000;
+6, classroom_7.wav 11000;

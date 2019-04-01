@@ -1,0 +1,7 @@
+0, baby_1.wav 9000;
+1, baby_2.wav 7000;
+2, baby_3.wav 7000;
+3, baby_4.wav 25000;
+4, baby_1.wav 9000;
+5, baby_2.wav 7000;
+6, baby_3.wav 7000;

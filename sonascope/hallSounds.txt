@@ -1,0 +1,8 @@
+0, hall_feet_1.wav 6000;
+1, hall_feet_2.wav 6000;
+2, hall_feet_3.wav 5000;
+3, hall_feet_4.wav 8000;
+4, hall_feet_1.wav 6000;
+5, hall_feet_2.wav 6000;
+6, hall_feet_3.wav 5000;
+7, hall_feet_4.wav 8000;

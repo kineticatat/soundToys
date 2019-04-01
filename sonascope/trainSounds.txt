@@ -1,0 +1,8 @@
+0, train_1.wav 16000;
+1, train_2.wav 18000;
+2, train_3.wav 18000;
+3, train_4.wav 11000;
+4, train_5.wav 3500;
+5, train_6.wav 3500;
+6, train_4.wav 11000;
+7, train_5.wav 3500;

@@ -1,0 +1,8 @@
+0, trafic-01.wav 60000;
+1, trafic-02.wav 14000;
+2, trafic-03.aiff 60000;
+3, trafic-04.wav 30000;
+4, trafic-01.wav 60000;
+5, trafic-02.wav 14000;
+6, trafic-03.aiff 60000;
+7, trafic-04.wav 30000;
