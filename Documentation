@@ -5,3 +5,9 @@ Build in Unity 2019.2.10f1 *(not 2018)
 
 11/08: newSoundMobile: Tap button to play sound (no pause), built on Android and working
 11/08: added accelerometer and button push to playback sound to code, not tested on device yet
+
+
+Notes: 
+Microphone playback in real time: https://support.unity3d.com/hc/en-us/articles/206485253-How-do-I-get-Unity-to-playback-a-Microphone-input-in-real-time-
+Using Accelerometer in Unity: http://www.theappguruz.com/blog/learn-to-use-accelerometer-in-unity-in-10-mins
+Accelerometer input in Unity PC: https://answers.unity.com/questions/1406689/how-to-get-sensoreg-accelerometer-input-from-exter.html
