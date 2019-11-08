@@ -1,0 +1,5 @@
+Phone connected to computer
+Go into phone settings/ developer options/ turn on USB debugging/ also stay awake
+in Unity Build Settings/ Android/ 32 bit and Development Build/ Build and Run
+
+11/08: added accelerometer and button push to playback sound
