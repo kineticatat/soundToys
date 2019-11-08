@@ -1,5 +1,7 @@
 Phone connected to computer
 Go into phone settings/ developer options/ turn on USB debugging/ also stay awake
 in Unity Build Settings/ Android/ 32 bit and Development Build/ Build and Run
+Build in Unity 2019.2.10f1 *(not 2018)
 
-11/08: added accelerometer and button push to playback sound
+11/08: newSoundMobile: Tap button to play sound (no pause), built on Android and working
+11/08: added accelerometer and button push to playback sound to code, not tested on device yet
