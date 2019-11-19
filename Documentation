@@ -4,6 +4,8 @@ in Unity Build Settings/ Android/ 32 bit and Development Build/ Build and Run
 Build in Unity 2019.2.10f1 *(not 2018)
 
 11/08: newSoundMobile: Tap button to play sound (no pause), built on Android and working
+11/19: 2 buttons, using buttonRecord script, need audiosource (empty) on Buttons
+
 11/08: added accelerometer and button push to playback sound to code, not tested on device yet
 
 Next steps: 
