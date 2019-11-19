@@ -1,5 +1,5 @@
 //trying to use touch data to trigger recording and stopping, then button for playback. Still working out issues with button
-
+// use in soundMobile files
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
