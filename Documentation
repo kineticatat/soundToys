@@ -7,6 +7,7 @@ Build in Unity 2019.2.10f1 *(not 2018)
 11/19: 2 buttons, using buttonRecord script, need audiosource (empty) on Buttons
 BUT: There is no argument given that corresponds to the required formal parameter 'call' of 'UnityEvent.AddListener(UnityAction)'
 
+11/19: touchDirection working: print direction of touch to screen
 11/19: testTouch: trying to get accelerometer to control slider, display in text: BUT having problems with acceleration as Vector3
 format. More information on accelerometer:
 https://docs.unity3d.com/Packages/com.unity.inputsystem@0.9/api/UnityEngine.InputSystem.Accelerometer.html
