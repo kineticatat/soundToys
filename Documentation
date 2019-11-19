@@ -3,6 +3,7 @@ Go into phone settings/ developer options/ turn on USB debugging/ also stay awak
 in Unity Build Settings/ Android/ 32 bit and Development Build/ Build and Run
 Build in Unity 2019.2.10f1 *(not 2018)
 
+
 11/08: newSoundMobile: Tap button to play sound (no pause), built on Android and working
 11/19: 2 buttons, using buttonRecord script, need audiosource (empty) on Buttons
 BUT: There is no argument given that corresponds to the required formal parameter 'call' of 'UnityEvent.AddListener(UnityAction)'
@@ -12,12 +13,14 @@ BUT: There is no argument given that corresponds to the required formal paramete
 format. More information on accelerometer:
 https://docs.unity3d.com/Packages/com.unity.inputsystem@0.9/api/UnityEngine.InputSystem.Accelerometer.html
 
+11/13: ForceSpeed: Greg got accelerometer data to move a ball around
 
-11/08: added accelerometer and button push to playback sound to code, not tested on device yet
+11/08: soundMobile: added accelerometer and button push to playback sound to code, not tested on device yet
+11/19: soundMobile: added touch for record/stop and button for playback, not working yet (issues with mapping to button)
 
 Next steps: 
-get data read out on screen (accelerometer data)::11/19 still working, different format
-get accelerometer to control volume:: 11/19 still working, different format
+get data read out on screen (accelerometer data)::11/19 still working, different format - vector3 data
+get accelerometer to control volume:: 11/19 still working, different format - vector3 data
 K try accelerometer code and button playback on android build
 
 Notes: 
