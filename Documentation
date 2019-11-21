@@ -16,7 +16,12 @@ Build in Unity 2019.2.10f1 *(not 2018)
 11/08: newSoundMobile: Tap button to play sound (no pause), built on Android and working
 11/19: 2 buttons, using buttonRecord script, need audiosource (empty) on Buttons
 BUT: There is no argument given that corresponds to the required formal parameter 'call' of 'UnityEvent.AddListener(UnityAction)'
-
+11/21: newCubeController script is *supposed* to use touch input to start/ stop a recording, and push a button to play back:
+https://github.com/kineticatat/soundToys/blob/master/NewScripts/NewCubeController.cs
+11/21: Touch Direction is displayed to screen with this code:
+https://github.com/kineticatat/soundToys/blob/master/NewScripts/TouchDirection
+11/21: Button tap plays a sound here:
+https://github.com/kineticatat/soundToys/blob/master/NewScripts/ButtonTapSound.cs
 
 Next steps: 
 11/21 WORKING: get data read out on screen (accelerometer data)::11/19 still working, different format - vector3 data
