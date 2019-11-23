@@ -6,14 +6,19 @@ December: Goals: continue to play with interface/ tangible options, develop scav
 
 January 6 Week?? Sound Scavenger Hunt/ Interaction Tasks
 
-DIS 2020 
+DIS 2020 :: Design considerations paper
 January 24, 2020
 Full Papers and Pictorials: Abstract and Title Submission
 January 31, 2020
 Full Papers, Pictorials, Workshops: Full Submission
 
-MOCO2020
+MOCO2020 :: Interaction design//embodied metaphor paper
 February? 
+
+Siggraph Asia: Conference Nov 2020
+https://sa2019.siggraph.org/about-us/sa2020
+
+TEI/ CHI :: tangible design paper
 
 *Things to do:*
 Goal: 3 prototypes for objects that hold a phone
