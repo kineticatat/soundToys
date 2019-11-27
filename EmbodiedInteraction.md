@@ -33,3 +33,7 @@ https://labaneffortsinaction.com/labans-efforts
 
 <img src="https://i.pinimg.com/236x/74/bf/08/74bf084dc64628d592a704d3cc3a1393--dance-studio-sacred-geometry.jpg">
 <img src="https://i.pinimg.com/236x/e2/ba/c1/e2bac1417d22c4a417f3a12c1bd4d6a2--information-body-image.jpg">
+<img src="http://my.ilstu.edu/~kacarl1/1.jpg">
+<img src="http://my.ilstu.edu/~kacarl1/2.jpg">
+<img src="http://my.ilstu.edu/~kacarl1/3.jpg">
+<img src="http://my.ilstu.edu/~kacarl1/4.jpg">
