@@ -1,5 +1,18 @@
 Musings on Metaphor and Embodied Interaction:
 
+Directionality of interaction
+N Salazar
+Edward Hall - proximity
+Mark Johnson - metaphor
+LMA
+Sound - gesture?
+
+Design considerations paper
+
+blocking vs accepting body gestures
+
+---------------------------
+
 Metaphor of sound as an object - but its not an object, and it is gone by the time I act
 
 Are haptics helpful - scooping vs not
