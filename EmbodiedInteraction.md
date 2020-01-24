@@ -12,6 +12,15 @@ Sound - gesture?
 Design considerations paper
 
 blocking vs accepting body gestures
+-----------------------
+Push/ Pull
+Spoke/ Gather
+Importance of directionality in metaphors for embodied interaction 
+
+About the metaphor itself or how it is mapped to the interface
+What is existing in metaphors, but what is important is how it is applied in systems
+
+Is there directionality implied in the metaphor that is not included in the design?
 
 ---------------------------
 
