@@ -5,6 +5,8 @@ N Salazar
 Edward Hall - proximity
 Mark Johnson - metaphor
 LMA
+Alissa - approach to embodied metaphor
+Rachelle Tsachor - emotion and embodied metaphor
 Sound - gesture?
 
 Design considerations paper
