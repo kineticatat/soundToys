@@ -21,6 +21,8 @@ enclosing and spreading
 advancing and retreating
 rising and sinking
 
+====Greg likes accepting and collecting
+
 blocking vs accepting body gestures
 -----------------------
 Push/ Pull
