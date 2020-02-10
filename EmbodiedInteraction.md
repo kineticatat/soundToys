@@ -23,6 +23,16 @@ What is existing in metaphors, but what is important is how it is applied in sys
 Is there directionality implied in the metaphor that is not included in the design?
 
 ---------------------------
+thoughts on Metaphores in interaction
+Often when we are interacting with devices we approach the tack as reaching out to a device to do something for us. When we consider an embodied approach
+
+Part of this argument is (might be) in the differene between  embodied and device driven metqphores. When focusing on designing a device it is seen as a tool and therefore our interactions are out to controling the tool. 
+IT IS WHEN we are considering the embodied experience that the idea of  an acepting/ bringing in gesture becomes of interest. 
+
+for example if i design a device to socke up sound i reach out to start it's process for socking up the sound. however, if i am designing a device that alows me to soak up a sound the gesture needs to be me bringing the sound into me through the device.
+
+_______________________________
+
 
 Metaphor of sound as an object - but its not an object, and it is gone by the time I act
 
