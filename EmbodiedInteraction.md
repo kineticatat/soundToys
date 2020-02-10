@@ -23,6 +23,10 @@ rising and sinking
 
 ====Greg likes accepting and collecting
 
+Susan Shape
+------------
+but to your question: the out vs in is probably enclosing and spreading which is Shape. gestures aren't so much Shape unless it's about relationships. (read some of Amy Laviers' stuff with robots because that's super gestural and although she  includes LBMS, it is a shallow explanation, and doesn't go into relationship (relating)). Now, Modes of Shape Change is where we get arcing and spoking which comes from Directional movement which is away from the body, outward. but that's not an affinity, rising/sinking, retreat/advance, and spreading/enclosing are the affinities. more in person via zoom or phone might help.
+
 blocking vs accepting body gestures
 -----------------------
 Push/ Pull
