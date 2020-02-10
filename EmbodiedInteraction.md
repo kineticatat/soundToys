@@ -11,6 +11,8 @@ Sound - gesture?
 
 Design considerations paper
 
+What do we mean when we say "embodied"? why is this perspective important as the value to the moco community? 
+
 blocking vs accepting body gestures
 -----------------------
 Push/ Pull
