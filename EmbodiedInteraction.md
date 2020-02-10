@@ -31,6 +31,9 @@ IT IS WHEN we are considering the embodied experience that the idea of  an acept
 
 for example if i design a device to socke up sound i reach out to start it's process for socking up the sound. however, if i am designing a device that alows me to soak up a sound the gesture needs to be me bringing the sound into me through the device.
 
+
+even in this , when designing a device the actions of the device still needs (in its design) need a inwards intention
+
 _______________________________
 
 
