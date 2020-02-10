@@ -15,6 +15,12 @@ What do we mean when we say "embodied"? why is this perspective important as the
 
 Are we just playing with different applications of shaping on interaction design? giving a series of examples? collection/ device focused gestures?
 
+Shape = only happen when relating to others 
+------------
+enclosing and spreading
+advancing and retreating
+rising and sinking
+
 blocking vs accepting body gestures
 -----------------------
 Push/ Pull
