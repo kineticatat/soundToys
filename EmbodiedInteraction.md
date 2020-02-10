@@ -11,7 +11,7 @@ Sound - gesture?
 
 Design considerations paper
 
-What do we mean when we say "embodied"? why is this perspective important as the value to the moco community? 
+What do we mean when we say "embodied"? why is this perspective important as the value to the moco community? (does this go to Shusterman/ 3rd wave HCI?)
 
 blocking vs accepting body gestures
 -----------------------
